@@ -1,0 +1,8 @@
+{
+  "name": "VFTS 352 - Gesture Control",
+  "description": "A 3D interactive particle simulation of the VFTS 352 binary star system controlled by hand gestures via Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
